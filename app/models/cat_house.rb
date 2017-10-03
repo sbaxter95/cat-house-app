@@ -1,0 +1,2 @@
+class CatHouse < ApplicationRecord
+end
